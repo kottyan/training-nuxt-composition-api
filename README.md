@@ -1,4 +1,4 @@
-# training-nuxt-brigde
+# training-nuxt-composition-api
 
 ## Build Setup
 
